@@ -23,9 +23,9 @@ sections:
           description: Page A is important too
           url: /privacy/
       variant: side
-      size: 50%
+      size: 33%
       alignment: right
-      backgroundColor: black
+      backgroundColor: white
   - infobar:
       title: Infobar title
       subtitle: Subtitle
