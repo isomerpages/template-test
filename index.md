@@ -16,7 +16,9 @@ sections:
       backgroundColor: white
       dropdown:
         title: Hero Dropdown Title Test 2
-        options: []
+        options:
+          - title: Link
+            url: https://google.com
   - infobar:
       title: Infobar title
       subtitle: Subtitle
