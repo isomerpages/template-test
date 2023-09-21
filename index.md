@@ -7,25 +7,21 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Side title
-      subtitle: Side subtitle
+      title: Hero title
+      subtitle: Hero subtitle
       background: /images/hero-banner.png
-      variant: side
-      size: 33%
-      alignment: right
-      backgroundColor: white
+      button: Contact Us
+      url: /contact-us/
       key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-      button: sfsfs
-      url: http://google.com
+        - title: Highlight A
+          description: Important highlight A is important
+          url: https://google.com
+        - title: Highlight B
+          description: Important highlight B is equally important
+          url: https://gmail.com
+        - title: Page A
+          description: Page A is important too
+          url: /privacy/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
