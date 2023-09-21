@@ -7,20 +7,25 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Side title
+      subtitle: Side subtitle
       background: /images/hero-banner.png
-      variant: image
+      variant: side
       size: 33%
       alignment: right
       backgroundColor: white
-      dropdown:
-        title: Hero Dropdown Title Test 2
-        options:
-          - title: Link
-            url: https://google.com
-          - title: Hero Dropdown Element Title
-            url: ""
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+      button: sfsfs
+      url: http://google.com
   - infobar:
       title: Infobar title
       subtitle: Subtitle
