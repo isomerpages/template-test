@@ -19,6 +19,8 @@ sections:
         options:
           - title: Link
             url: https://google.com
+          - title: Hero Dropdown Element Title
+            url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
