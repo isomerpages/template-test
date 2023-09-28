@@ -25,6 +25,7 @@ sections:
       variant: side
       backgroundColor: white
       size: 33%
+      alignment: left
   - infobar:
       title: Infobar title
       subtitle: Subtitle
