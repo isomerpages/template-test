@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
+      title: balh
       subtitle: Hero subtitle
       background: /images/hero-banner.png
       button: Contact Us
@@ -22,6 +22,9 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+      variant: floating
+      backgroundColor: white
+      size: 33%
   - infobar:
       title: Infobar title
       subtitle: Subtitle
