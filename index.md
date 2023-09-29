@@ -23,9 +23,6 @@ sections:
           description: Important highlight A is important
           url: https://google.com
       variant: center
-      backgroundColor: white
-      size: 33%
-      alignment: left
   - infobar:
       title: Infobar title
       subtitle: Subtitle
