@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: hello
-      subtitle: this one is aligned to the rig
+      subtitle: this one is aligned to the right
       background: /images/hero-banner.png
       variant: floating
       size: sm
