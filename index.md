@@ -7,10 +7,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: the hero title
-      subtitle: Hero subtitle
+      title: Isomer
+      subtitle: Set your sites higher
       background: /images/hero-banner.png
-      variant: floating
+      variant: center
       size: md
       alignment: left
   - infobar:
