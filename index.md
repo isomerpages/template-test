@@ -48,8 +48,8 @@ sections:
         - title: New Announcement4
           date: 28 September 2023
           announcement: Announcement content
-          link_text: ""
-          link_url: ""
+          link_text: Learn more!
+          link_url: https://google.com
         - title: New Announcement1
           date: 28 September 2023
           announcement: Announcement content
