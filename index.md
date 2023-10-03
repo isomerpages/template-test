@@ -10,11 +10,12 @@ sections:
       title: hello
       subtitle: this one is aligned to the rig
       background: /images/hero-banner.png
-      variant: side
-      size: md
-      alignment: left
+      variant: floating
+      size: sm
+      alignment: right
       button: button
       url: /button
+      backgroundColor: gray
   - infobar:
       title: Infobar title
       subtitle: Subtitle
@@ -30,7 +31,7 @@ sections:
         - title: Card3
           description: Card description
           linktext: Learn more
-          url: ""
+          url: https://google.com
         - title: Card2
           description: Card description
           linktext: Learn more
