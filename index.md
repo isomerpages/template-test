@@ -7,12 +7,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Isomer
-      subtitle: Set your sites higher
+      title: hello
+      subtitle: this one is aligned to the rig
       background: /images/hero-banner.png
-      variant: center
+      variant: side
       size: md
       alignment: left
+      button: button
+      url: /button
   - infobar:
       title: Infobar title
       subtitle: Subtitle
