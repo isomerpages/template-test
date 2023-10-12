@@ -22,6 +22,21 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - infocols:
+      subtitle: Info-Column SUBTitle
+      title: Very very long info-col title because the user feels like adding a very long title and they are very verbose humans
+      # title: Info-column Title
+      url: https://www.google.com
+      linktext: Our Approach
+      infoboxes:
+        - title: Hollistic Education
+          description: We believe in more than just academics. Providing a holistic education, covering both academic and non-academic areas.We believe in more than just academics. Providing a holistic education, covering both academic and non-academic areas.
+        - title: Info-column Title
+          description: We believe in more than just academics. Providing a holistic education, covering both academic and non-academic areas.
+        - title: Hollistic Education
+          description: Providing a holistic education, covering both academic and non-academic areas.
+        - title: Hollistic Education
+          description: We believe in more than just academics.
   - textcards:
       title: Text Cards
       subtitle: Add informational text
